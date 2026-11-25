@@ -26,9 +26,18 @@ An interactive Sales Performance Dashboard was developed using Excel PivotTables
 - Conditional formatting
 - Data filtering and sorting
 
-## Screenshot Of The Dashboard
+## Screenshot Of The Sales Data
 
 <img width="1660" height="677" alt="image" src="https://github.com/user-attachments/assets/091e3716-9c96-43e0-8aa9-c86c9f8315bb" />
+
+## Screenshot Of The Dashboard
+
+<img width="1106" height="653" alt="image" src="https://github.com/user-attachments/assets/ac362b0c-c010-434e-9fa9-e55b86b7923c" />
+<img width="1277" height="652" alt="image" src="https://github.com/user-attachments/assets/36c02dcb-949d-4f9e-a223-9e0f270cb721" />
+<img width="871" height="616" alt="image" src="https://github.com/user-attachments/assets/878ab050-0f8d-4d59-a24c-bd86d4ba8774" />
+<img width="773" height="652" alt="image" src="https://github.com/user-attachments/assets/247ff2ff-dba0-45ba-8f60-613322de2f09" />
+<img width="1857" height="485" alt="image" src="https://github.com/user-attachments/assets/08ecee8e-73e4-49a2-b64f-d1bb8032296d" />
+<img width="1172" height="632" alt="image" src="https://github.com/user-attachments/assets/740da75e-f96a-4737-bdd4-3c013f50d6f8" />
 
 
 ## Dataset Description
